@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello World"
 echo "Add on"
-echo "Added on 8July2023"
+echo "Added on 8-July-2023"
